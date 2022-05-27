@@ -1,0 +1,19 @@
+Software Developer - Разработчик ПО
+Fullstack Python Developer - Fullstack - разработчик на Python
+Software Engineer - Инженер ПО
+System Programmer - Системный программист
+Data Scientist - Специалист по обработке данных
+Data Analyst - Аналитик данных
+DevOps Engineer - DevOps-инженер
+Business Process Automation (BPA)  - Автоматизация бизнес-процессов
+Developer/Analyst или Robotic Process Automation (RPA) Developer.
+Web Developer - Веб-разработчик
+System Administrator - Системный администратор
+Quality Assurance Tester - Тестировщик ПО
+Bioinformatician - Биоинформатик
+GIS Analyst - GIS-аналитик
+Build/Release Engineer - Билд-инженер
+Machine Learning Specialist (ML Specialist) - Специалист по машинному обучению
+Neural Network Developer - Разработчик нейронных сетей
+Research Assistant - Младший научный сотрудник
+Indie Game Developer - Инди-разработчик
